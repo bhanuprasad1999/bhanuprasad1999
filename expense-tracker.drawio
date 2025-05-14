@@ -1,9 +1,30 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36" version="27.0.5">
   <diagram name="Page-1" id="O9XgXwJCEm626yFmfBz4">
-    <mxGraphModel>
+    <mxGraphModel dx="1111" dy="526" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="kgv2G1Oz28T-YQ5CuaxX-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="90" width="250" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="kgv2G1Oz28T-YQ5CuaxX-2" value="Amount" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="293" width="210" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kgv2G1Oz28T-YQ5CuaxX-3" value="Debit" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="358" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kgv2G1Oz28T-YQ5CuaxX-4" value="credit" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="177" y="358" width="93" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kgv2G1Oz28T-YQ5CuaxX-5" value="Description" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="183" width="210" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="kgv2G1Oz28T-YQ5CuaxX-6" value="Date: 20/07/2022" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="120" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kgv2G1Oz28T-YQ5CuaxX-8" value="&lt;span style=&quot;color: rgb(255, 255, 255); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(27, 29, 30); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;5667&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="125" width="70" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
