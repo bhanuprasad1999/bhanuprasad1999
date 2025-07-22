@@ -1,9 +1,72 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" version="27.2.0">
   <diagram name="Page-1" id="ACS2Yv1MJO5UdREX3Eni">
-    <mxGraphModel>
+    <mxGraphModel dx="1665" dy="838" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="L8QokHAeWwetVGpcRUXU-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="260" width="420" height="390" as="geometry" />
+        </mxCell>
+        <mxCell id="L8QokHAeWwetVGpcRUXU-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" edge="1" parent="1" source="L8QokHAeWwetVGpcRUXU-1" target="L8QokHAeWwetVGpcRUXU-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="L8QokHAeWwetVGpcRUXU-1" value="Local model (LLAMA3.2 7 b parameters" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="L8QokHAeWwetVGpcRUXU-19" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="L8QokHAeWwetVGpcRUXU-2" target="L8QokHAeWwetVGpcRUXU-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="90" y="420" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="L8QokHAeWwetVGpcRUXU-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="L8QokHAeWwetVGpcRUXU-2" target="L8QokHAeWwetVGpcRUXU-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="90" y="250" />
+              <mxPoint x="670" y="250" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="L8QokHAeWwetVGpcRUXU-2" value="google cloud&lt;div&gt;vertex ai&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="L8QokHAeWwetVGpcRUXU-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="L8QokHAeWwetVGpcRUXU-5" target="L8QokHAeWwetVGpcRUXU-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="L8QokHAeWwetVGpcRUXU-5" value="vector database and embeddings (qdrant)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="573" width="270" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="L8QokHAeWwetVGpcRUXU-15" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="540" y="296" width="260" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="L8QokHAeWwetVGpcRUXU-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="L8QokHAeWwetVGpcRUXU-15">
+          <mxGeometry y="-3" width="260" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="L8QokHAeWwetVGpcRUXU-10" value="Information world" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="L8QokHAeWwetVGpcRUXU-15">
+          <mxGeometry x="78" y="10" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="L8QokHAeWwetVGpcRUXU-11" value="API calls" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="L8QokHAeWwetVGpcRUXU-15">
+          <mxGeometry x="7" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="L8QokHAeWwetVGpcRUXU-12" value="Scrappers" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="L8QokHAeWwetVGpcRUXU-15">
+          <mxGeometry x="137" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="L8QokHAeWwetVGpcRUXU-13" value="Video through" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="L8QokHAeWwetVGpcRUXU-15">
+          <mxGeometry x="7" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="L8QokHAeWwetVGpcRUXU-14" value="Image/pdf" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="L8QokHAeWwetVGpcRUXU-15">
+          <mxGeometry x="137" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="L8QokHAeWwetVGpcRUXU-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.478;entryY=0.083;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="L8QokHAeWwetVGpcRUXU-9" target="L8QokHAeWwetVGpcRUXU-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="L8QokHAeWwetVGpcRUXU-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="L8QokHAeWwetVGpcRUXU-17" target="L8QokHAeWwetVGpcRUXU-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="L8QokHAeWwetVGpcRUXU-17" value="User chat" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="296" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
