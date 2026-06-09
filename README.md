@@ -1,4 +1,4 @@
-Hi, I'm @bhanuprasad1999<br><br>
+Hi, I'm Bhanu Prasad<br><br>
 - Core Programming Language: Python, Learning Rust.
 - Technologies & Frameworks Used: Docker Containers, Git, GitHub, Django Framework,<br>
 Frappe Framework, Web Development, Kafka, datadog, casandra db
